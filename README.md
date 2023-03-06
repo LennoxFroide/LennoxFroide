@@ -4,6 +4,10 @@
   <img src = "https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif"  width = "400"/>
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
 
 <!--
 **LennoxFroide/LennoxFroide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
