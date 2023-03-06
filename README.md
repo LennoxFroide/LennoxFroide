@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<div align = "center" font-size = "3em" >
+<div align = "center" font-size = "5em" >
   Hi there 👋
 </div>
 
