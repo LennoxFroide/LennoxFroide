@@ -10,6 +10,10 @@
   </a>
 </div>
 
+<div align = "center" >
+  Hi there 👋
+</div>
+
 
 <!--
 **LennoxFroide/LennoxFroide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
