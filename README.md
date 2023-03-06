@@ -4,8 +4,10 @@
   <img src = "https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif"  width = "400"/>
 </div>
 
-<div>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id = "badges">
+  <a href = "https://www.linkedin.com/in/lennox-apudo/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 
